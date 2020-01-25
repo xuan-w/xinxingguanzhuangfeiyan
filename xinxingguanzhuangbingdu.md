@@ -64,7 +64,7 @@ N95口罩，KN95口罩，一次性外科口罩具有类似的防护效力。
 口罩用法：
 
 * 撕开包装时，请注意不要用手触碰口罩内侧。
-*  接下来，请参考链接中关于口罩戴法的视频： [https://haokan.baidu.com/v?pd=wisenatural&vid=824319319054338088](https://github.com/physixfan/xinxingguanzhuangfeiyan/blob/master/Picture2.png?raw=true)
+*  接下来，请参考链接中关于口罩戴法的视频： [https://haokan.baidu.com/v?pd=wisenatural&vid=824319319054338088](https://haokan.baidu.com/v?pd=wisenatural&vid=824319319054338088)
 * 每次出门都换一个新口罩，出门最好不超过4小时（N95口罩佩戴时间过长会导致憋气），出门期间请勿取下口罩，进家门前请将口罩取下丢弃。
 *  准备一个塑料袋专门放没用过的口罩，因为裸露的口罩一旦接触衣物或者其他东西会增加传播风险。
 *  最好随身携带一个带有包装的新口罩。
