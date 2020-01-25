@@ -155,6 +155,19 @@ N95口罩，KN95口罩，一次性外科口罩具有类似的防护效力。
 13. 所有照顾患者的人都应视为密切接触者，谨慎观察自身状况，若出现症状，也按疑似患者算，照以上原则处理（轻症在家隔离，重症尽量送医隔离）。
 14. 温和症状者，可每日服用2克维生素C。
 15. 感冒药对病毒无效(包括感冒病毒也无效)，但能控制咳嗽、流鼻涕等症状，减少传染给家人的可能，若有温和症状，也请每日服用感冒药。
+16. 家中隔离时，若有情况变化，请参考以下一项条目（在线医疗咨询），随时通过网络咨询有专业资质的医生。年轻人请多多帮助家中不熟悉手机的长辈们进行在线咨询。
+
+## 在线医疗咨询
+
+### 1. 武汉同济医院已开通网上问诊
+
+请先下载“掌上同济app”，然后按连接中的指示进行咨询。
+[https://search.weixin.qq.com/k/QVNVUFJNaV1aS1NSRFteakRfSEJdakFQW1ZvRVVSblRdLVUyVzQwUUQ#wechat_redirect](https://search.weixin.qq.com/k/QVNVUFJNaV1aS1NSRFteakRfSEJdakFQW1ZvRVVSblRdLVUyVzQwUUQ#wechat_redirect)
+
+### 2. 丁香医生在线咨询
+请用微信扫描，进入小程序，向医生咨询。湖北用户享受免费服务。
+
+![](https://github.com/physixfan/xinxingguanzhuangfeiyan/blob/master/Picture4.png?raw=true)
 
 ## 食物储备
 
