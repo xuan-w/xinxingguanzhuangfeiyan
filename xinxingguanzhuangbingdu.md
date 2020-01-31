@@ -248,7 +248,7 @@ N95口罩，KN95口罩，一次性外科口罩具有类似的防护效力。
 ![](https://github.com/physixfan/xinxingguanzhuangfeiyan/blob/master/Picture4.png?raw=true)
 
 ### 3. 中国医师协会的“微医在线咨询”
-(https://promo.idajiabang.com/topic/pneumonia?cs=share&from=singlemessage&isappinstalled=0)
+https://promo.idajiabang.com/topic/pneumonia?cs=share&from=singlemessage&isappinstalled=0
 
 ## 食物储备
 
