@@ -302,8 +302,7 @@ https://promo.idajiabang.com/topic/pneumonia?cs=share&from=singlemessage&isappin
 
 该热线于2020年1月27日（大年初三）早6点开通。
 
-注：该热线主要针对因新型肺炎而产生比较紧急情况、急需情绪缓解的人群，如您尚不符合这个情况描述，可参考下文的其他资源。
-详细介绍请见：https://mp.weixin.qq.com/s/rtG1srbIHVAh29g0kHc1uQ
+注：该热线主要针对因新型肺炎而产生比较紧急情况、急需情绪缓解的人群，如您尚不符合这个情况描述，请参考下文其他资源，详细介绍请见：https://mp.weixin.qq.com/s/rtG1srbIHVAh29g0kHc1uQ
 
 
 ## 随时了解疫情
